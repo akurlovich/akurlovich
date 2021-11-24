@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋I'm Junior Frontend (React/JS) + Backend (Node.js) Developer!
 
 <!--
 **akurlovich/akurlovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
