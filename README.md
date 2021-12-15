@@ -22,6 +22,7 @@
 <img alt="github" src="https://img.shields.io/badge/github-8C0000.svg?&style=for-the-badge&logo=github&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="heroku" src="https://img.shields.io/badge/heroku-8C0000.svg?&style=for-the-badge&logo=heroku&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-8C0000.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="nvim" src="https://img.shields.io/badge/git-8C0000.svg?&style=for-the-badge&logo=git&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 
 ### 🤝 Connect with me:
 
