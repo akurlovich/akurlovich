@@ -1,6 +1,14 @@
 ### Hi there 👋
 ## I'm Junior Frontend (React/JS) + Backend (Node.js) Developer!
 
+### 💻 Education:
+
+ ✔️ **NODE.JS** at "The Rolling Scopes School"<br>
+ ✔️ **React Developer** at "The Rolling Scopes School"<br>
+ ✔️ **React Developer** at "SENLA - Software Engineering Laboratory"<br>
+ ✔️ **JavaScript / Front-end Developer** at "The Rolling Scopes School"<br>
+ ✔️ **Software Testing Engineer. Professional level** at "It-Akademiya "Belkhard"<br>
+
 ### 💻 Tech Stack:
 <img alt="react" src="https://img.shields.io/badge/react-8C0000.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-8C0000.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
@@ -23,6 +31,26 @@
 <img alt="heroku" src="https://img.shields.io/badge/heroku-8C0000.svg?&style=for-the-badge&logo=heroku&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-8C0000.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="nvim" src="https://img.shields.io/badge/vim-8C0000.svg?&style=for-the-badge&logo=nvim&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+
+
+### 💻 My works:
+
+<table align="center">
+ 
+ <tr>
+  <td>
+      <a href="https://nilender-andrey.github.io/studioratio/module2/" target="_blank">
+       <kbd><img src="https://user-images.githubusercontent.com/71250705/162901608-eacc1912-ab9e-402f-b97a-4f0cfbf40e2e.jpg" width="480" ></kbd>
+      </a>
+   </td>
+   <td>
+     <span>🎮 <b>"Simple SPA game (memory card)"</b></span><br>
+     TypeScript, IndexedDB API<br>
+   <a href="https://github.com/akurlovich/match-match-game">Link to Repository<a/>
+   </td>
+  </tr>
+
+</table>
 
 ### 🤝 Connect with me:
 
