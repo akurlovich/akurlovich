@@ -54,13 +54,25 @@
  
  <tr>
   <td>
-      <a href="https://nilender-andrey.github.io/studioratio/module2/" target="_blank">
        <kbd><img src="https://user-images.githubusercontent.com/71250705/162901608-eacc1912-ab9e-402f-b97a-4f0cfbf40e2e.jpg" width="480" ></kbd>
       </a>
    </td>
+
    <td>
      <span>🎮 <b>"Simple SPA game (memory card)"</b></span><br>
      TypeScript, IndexedDB API<br>
+   <a href="https://github.com/akurlovich/async_race">Link to Repository<a/>
+   </td>
+  </tr>
+ 
+ <tr>
+  <td>
+       <kbd><img src="https://user-images.githubusercontent.com/71250705/162944166-db148c5c-1747-4e26-9711-08c86d50aafd.jpg" width="480" ></kbd>
+      </a>
+   </td>
+   <td>
+     <span>🎮 <b>"Async Race game"</b></span><br>
+     SPA, Communication with a server (fetch, REST API) (server deploy on Heroku), Async coding / Promises, JS Animations, DOM Api<br>
    <a href="https://github.com/akurlovich/match-match-game">Link to Repository<a/>
    </td>
   </tr>
