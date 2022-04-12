@@ -1,6 +1,21 @@
 ### Hi there 👋
 ## I'm Junior Frontend (React/JS) + Backend (Node.js) Developer!
 
+### 💻 Work experience:
+
+✔️ 11.2021-04.2022. Internship in iTechArt Group.<br>
+**Trainee Frontend Developer (JS/React) + Node.JS**
+- Getting in-depth knowledge in JavaScript and React.js
+- Systematic verification and control of the acquired knowledge by the mentor
+- Learning and putting into practice the best practices in Javascript, TypeScript, React.js and Node.js
+- Implementation of the final project with client and server side using React.js, Redux, TypeScipt, Node.js, MongoDB, Authorization (JWT)
+
+✔️ 10.2020-01.2021. Internship in BELHARD Academy.<br>
+**Junior QA Engineer**
+- Writing test cases and Bug reports
+- Doing Black box, Functional, Cross-browser, Web, GUI, API, Mobile, Regression tests
+- Working by SCRUM methodology
+
 ### 💻 Education:
 
  ✔️ **NODE.JS** at "The Rolling Scopes School"<br>
