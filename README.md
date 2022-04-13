@@ -76,6 +76,18 @@
    <a href="https://github.com/akurlovich/match-match-game">Link to Repository<a/>
    </td>
   </tr>
+  
+  <tr>
+  <td>
+       <kbd><img src="https://user-images.githubusercontent.com/71250705/163109134-800eae1e-469e-498f-9ef3-ba20281c0090.jpg" width="480" ></kbd>
+      </a>
+   </td>
+   <td>
+     <span>🎮 <b>"English for kids"</b></span><br>
+     React App, TypeScript, Redux, MongoDB, NestJs server whith deploy on Heroku<br>
+   <a href="https://github.com/akurlovich/eglish_for_kids">Link to Repository<a/>
+   </td>
+  </tr>
 
 </table>
 
