@@ -88,6 +88,19 @@
    <a href="https://github.com/akurlovich/eglish_for_kids">Link to Repository<a/>
    </td>
   </tr>
+  
+  <tr>
+  <td>
+       <kbd><img src="https://user-images.githubusercontent.com/71250705/176410861-a443a6fe-ad7e-4bf8-9c55-96690516e717.jpg" width="480" ></kbd>
+      </a>
+   </td>
+   <td>
+
+     <span>🎮 <b>"E-Book library"</b></span><br>
+     React App, TypeScript, Redux, MongoDB, NestJs server whith deploy on Heroku<br>
+   <a href="https://github.com/akurlovich/Trainee_iTechArt-Group/tree/develop">Link to Repository<a/>
+   </td>
+  </tr>
 
 </table>
 
