@@ -95,7 +95,6 @@
       </a>
    </td>
    <td>
-
      <span>🎮 <b>"E-Book library"</b></span><br>
      React App, TypeScript, Redux, MongoDB, NestJs server whith deploy on Heroku<br>
    <a href="https://github.com/akurlovich/Trainee_iTechArt-Group/tree/develop">Link to Repository<a/>
